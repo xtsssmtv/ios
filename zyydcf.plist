@@ -24,7 +24,7 @@
 	
 	    	       <key>url</key>
 
-	    	       <string>http://817006.demo.zoesoft.net:9000/ZyNursingDocuments.ipa</string>
+	    	       <string>https://3030.ij120.dev.zoenet.cn/upload/mytabbar.ipa</string>
 	
 	    	    </dict>
 			
@@ -40,7 +40,7 @@
  
 	    	       <key>url</key>
 
-	    	       <string>http://817006.demo.zoesoft.net:9000/wardround.png</string>
+	    	       <string>https://3030.ij120.dev.zoenet.cn/upload/ZYYDCF.png</string>
 
 	    	    </dict>
 			
@@ -52,7 +52,7 @@
 
 	    	    <key>bundle-identifier</key>
 
-	    	    <string>cn.zoenet.ZyNursingDocuments</string>
+	    	    <string>cn.zoenet.ydcf</string>
 
 	    	    <key>kind</key>
 
@@ -60,7 +60,7 @@
 
 	            <key>title</key>
 
-	    	    <string>护理文书</string>
+	    	    <string>ydcf</string>
 
 	         </dict>
 
